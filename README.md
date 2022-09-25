@@ -1,6 +1,3 @@
-# Carousel
-
-
 ![Carousel](media/shipcarousel_image.png)
 
-https://shipcarousel.com
+[Carousel Site](https://shipcarousel.com)
